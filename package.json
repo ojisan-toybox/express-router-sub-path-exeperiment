@@ -1,0 +1,22 @@
+{
+  "name": "express-router-sub-path-exeperiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/express-router-sub-path-exeperiment.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/express-router-sub-path-exeperiment/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/express-router-sub-path-exeperiment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
